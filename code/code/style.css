@@ -1,0 +1,19 @@
+/* Example styling of a h1 element */
+h1 {
+  color: #22b9ca;
+}
+/* Black border */
+hr.new1 {
+  border-top: 2px solid black;
+}
+img{
+  width: 150px;
+  height: 150px;
+}
+.note {
+    font-style: italic;
+    font-weight: bold;
+    background-color: #fff78f
+}
+
+.highlightme { background-color:#FFFF00; }
